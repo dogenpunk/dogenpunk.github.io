@@ -1,0 +1,12 @@
+* Blog Topics
+** TODO Linters as Fashion Police
+** TODO Review/Integration after commit/merging
+** TODO Codebase as Archaeological dig
+** TODO Why JavaScript tooling sucks
+** TODO Why JavaScript culture sucks
+** TODO Why the Web sucks!!!
+** TODO Why the Web rules!!!
+** TODO Why the Web matters, and what that means for society
+** TODO Why Reg Braithwaite matters
+** TODO Why design matters...
+** TODO ...and algorithms don't
